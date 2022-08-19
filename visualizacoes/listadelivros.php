@@ -68,6 +68,7 @@
     <main class="p-3">
       <section class="linhaUm row mb-5 mt-5">
           <div class="col-3"><figure><img src="../imagens/livros/game-of-thrones.jpg" alt="livro game-of-thrones"><figcaption>Game of thrones Volume 1</figcaption></figure></div>
+          <div class="col-3"><figure><img src="../imagens/livros/harry-potter-e-a-camara-secreta.jpg" alt="livro harry-potter"><figcaption>Harry Potter e a Camara Secreta</figcaption></figure></div>
       </section>
 
     <section class="linhaUm">
