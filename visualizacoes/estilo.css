@@ -299,8 +299,13 @@ nav li a:nth-child(1):hover, nav li a:nth-child(1):active{
         /* fim do forms */
 
 
-          
+        /* Carrossel de imagens */
+        .carousel {
+            width: 1000px;
+            margin: 0 auto;
+          }
 
+          /* fim do carrossel */
 
         /* css geral do footer */
 
