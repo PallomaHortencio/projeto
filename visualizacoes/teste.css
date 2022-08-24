@@ -1,8 +1,13 @@
 body {
-  background-color: #afafac;
+  background-color: #ffffff;
 }
 
 .carrossel {
   width: 1000px;
   margin: 0 auto;
 }
+
+div#imagens img {
+  width: 250px!important;
+  height: 260px!important;
+  }
