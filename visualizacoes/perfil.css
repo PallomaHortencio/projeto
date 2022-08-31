@@ -231,12 +231,12 @@ linear-gradient(to bottom, #1D594E, #257c6c) cor verde */
     line-height: normal;
     width: 30px;
     height: 30px;
-    background-color: #2f2f2f;
+    background-color: #0feb63;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #ffffff;
+    color: #f31515;
     font-size: 14px;
     transition: 0.5s all;
     background-image: none;
