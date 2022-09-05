@@ -188,6 +188,7 @@ linear-gradient(to bottom, #1D594E, #257c6c) cor verde */
 
 /* Inicio cars perfil */
 
+body{margin-top:20px;}
 .product_list {
     border: 1px solid #d1d1d1;
     border-radius: 8px;
@@ -233,12 +234,12 @@ linear-gradient(to bottom, #1D594E, #257c6c) cor verde */
     line-height: normal;
     width: 30px;
     height: 30px;
-    background-color: #f0f0f0;
+    background-color: #2f2f2f;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #ffc929;
+    color: #ffffff;
     font-size: 14px;
     transition: 0.5s all;
     background-image: none;
@@ -330,10 +331,8 @@ linear-gradient(to bottom, #1D594E, #257c6c) cor verde */
     object-fit: contain;
     object-position: center;
 }
-
 a{
     text-decoration:none;
 }
-
 
 /* fim cads perfil */
