@@ -469,12 +469,7 @@ nav li a:nth-child(1):hover, nav li a:nth-child(1):active{
             .card:not(:first-child){
                 display: none;
             }
-
-            /* .card{
-                margin: 0 .5em;
-                width: calc(100%/1);
-            }
-        } */
+        }
 
     
         .image-wrapper img{
